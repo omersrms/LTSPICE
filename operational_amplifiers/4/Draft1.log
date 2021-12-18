@@ -1,0 +1,22 @@
+Circuit: * C:\Users\osari\Desktop\ELEC\D5\4\Draft1.asc
+
+Direct Newton iteration for .op point succeeded.
+Changing Tseed to 2.92969e-010
+
+Date: Thu Jul 08 09:50:53 2021
+Total elapsed time: 0.092 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 2641
+traniter = 2634
+tranpoints = 1254
+accept = 1191
+rejected = 62
+matrix size = 18
+fillins = 7
+solver = Normal
+Matrix Compiler1: 1.60 KB object code size  0.3/0.1/[0.1]
+Matrix Compiler2: 1.63 KB object code size  0.1/0.2/[0.1]
+
